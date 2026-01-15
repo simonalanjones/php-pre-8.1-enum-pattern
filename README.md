@@ -1,7 +1,5 @@
 # PHP Pre–8.1 Enum Pattern
 
-# PHP Pre–8.1 Enum Pattern
-
 This repository contains a small, production-style example of how enum-like
 behaviour **can be implemented in environments running PHP versions prior to 8.1**.
 
