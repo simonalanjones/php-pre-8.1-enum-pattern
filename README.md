@@ -35,3 +35,9 @@ if ($planType->isPro()) {
 
 $code = $planType->toCode(); // 2
 
+
+**Note**  
+This example uses simple `free` / `pro` values for clarity.  
+In a real codebase you would adapt the allowed values, constructors, and helpers to match your own domain concepts.
+
+
